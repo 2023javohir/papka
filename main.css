@@ -2,3 +2,18 @@ h1{
     text-align: center;
     color:aqua;
 }
+main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left{
+    width: 400px;
+    height: 400px;
+    background:blue;
+}
+.right{
+    width: 400px;
+    height: 400px;
+    background: mediumseagreen;
+}
